@@ -223,5 +223,4 @@ var styles = StyleSheet.create({
 })
 
 
-
 module.exports = SearchPage ;
