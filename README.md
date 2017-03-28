@@ -12,4 +12,4 @@ javaScript.js 是练习代码与教程无关
 
 3. cd到你的文件夹并初始化项目，react-native init PropertyFinder    
 
-react native 包运行在node环境下
+react native 包运行在node环境下，npm类型cocoaPods作用于包的管理
